@@ -1,0 +1,25 @@
+#header, #footer {
+background-color:#FFF;
+padding: 20px 0px; 
+}
+
+#navigation {
+	background-color:#FFF;
+}
+
+a:link, a:visited {
+color:black;
+text-decoration:none;
+}
+
+a:hover, a:active {
+text-decoration:underline;
+}
+
+h1 {
+font-size:1.8em;
+}
+
+div.view-content td {
+	padding: 20px 0px; 
+}
